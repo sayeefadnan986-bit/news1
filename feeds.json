@@ -1,0 +1,28 @@
+
+{
+  "max_articles_per_source": 8,
+  "max_articles_per_category": 100,
+  "max_total_articles": 1800,
+  "categories": [
+    {"name":"World News","query":"world international news","sources":["bbc.com","reuters.com","apnews.com","aljazeera.com","theguardian.com","dw.com","france24.com","npr.org","cnn.com","cbc.ca"]},
+    {"name":"Bangladesh","query":"Bangladesh latest news","sources":["thedailystar.net","dhakatribune.com","bdnews24.com","newagebd.net","tbsnews.net","daily-sun.com","banglanews24.com","prothomalo.com","jugantor.com","kalerkantho.com"]},
+    {"name":"Technology","query":"technology innovation gadgets","sources":["techcrunch.com","theverge.com","wired.com","arstechnica.com","engadget.com","zdnet.com","cnet.com","techradar.com","tomshardware.com","androidauthority.com"]},
+    {"name":"Science","query":"science research discovery","sources":["sciencedaily.com","nature.com","science.org","newscientist.com","phys.org","livescience.com","scientificamerican.com","eurekalert.org","nationalgeographic.com","smithsonianmag.com"]},
+    {"name":"Artificial Intelligence","query":"artificial intelligence AI machine learning","sources":["techcrunch.com","theverge.com","wired.com","venturebeat.com","siliconangle.com","marktechpost.com","towardsdatascience.com","openai.com","deepmind.google","anthropic.com"]},
+    {"name":"Space","query":"space astronomy NASA missions","sources":["nasa.gov","space.com","esa.int","spacex.com","skyandtelescope.org","astronomy.com","planetary.org","universetoday.com","phys.org","science.nasa.gov"]},
+    {"name":"Sports","query":"sports latest results news","sources":["espn.com","bbc.com","skysports.com","theguardian.com","reuters.com","apnews.com","olympics.com","foxsports.com","cbssports.com","sports.yahoo.com"]},
+    {"name":"Cricket","query":"cricket international matches news","sources":["espncricinfo.com","cricbuzz.com","icc-cricket.com","bcci.tv","pcb.com.pk","tigercricket.com.bd","cricket.com.au","skysports.com","sports.ndtv.com","hindustantimes.com"]},
+    {"name":"Football","query":"football soccer leagues transfers","sources":["goal.com","fifa.com","uefa.com","premierleague.com","laliga.com","bundesliga.com","legaseriea.it","ligue1.com","espn.com","skysports.com"]},
+    {"name":"Entertainment","query":"entertainment celebrity music culture","sources":["variety.com","hollywoodreporter.com","deadline.com","people.com","ew.com","rollingstone.com","billboard.com","bbc.com","theguardian.com","apnews.com"]},
+    {"name":"Movies & TV","query":"movies films television streaming","sources":["variety.com","hollywoodreporter.com","deadline.com","rottentomatoes.com","empireonline.com","collider.com","indiewire.com","screenrant.com","tvline.com","ign.com"]},
+    {"name":"Gaming","query":"video games gaming industry","sources":["ign.com","gamespot.com","polygon.com","eurogamer.net","pcgamer.com","kotaku.com","rockpapershotgun.com","gamesradar.com","videogameschronicle.com","nintendo.com"]},
+    {"name":"Business","query":"business companies industry news","sources":["bloomberg.com","cnbc.com","ft.com","wsj.com","reuters.com","apnews.com","businessinsider.com","fortune.com","forbes.com","economist.com"]},
+    {"name":"Economy","query":"global economy inflation GDP policy","sources":["imf.org","worldbank.org","oecd.org","cnbc.com","bloomberg.com","ft.com","reuters.com","tradingeconomics.com","federalreserve.gov","bankofengland.co.uk"]},
+    {"name":"Markets & Finance","query":"stock markets finance investing","sources":["marketwatch.com","investing.com","barrons.com","cnbc.com","bloomberg.com","reuters.com","ft.com","nasdaq.com","nyse.com","morningstar.com"]},
+    {"name":"Health","query":"health medical research public health","sources":["who.int","nih.gov","cdc.gov","medicalnewstoday.com","health.harvard.edu","webmd.com","mayoclinic.org","sciencedaily.com","nature.com","statnews.com"]},
+    {"name":"Education","query":"education schools universities learning","sources":["edutopia.org","insidehighered.com","chronicle.com","timeshighereducation.com","topuniversities.com","educationweek.org","unesco.org","edsurge.com","theconversation.com","bbc.com"]},
+    {"name":"Environment & Climate","query":"environment climate change conservation","sources":["climate.nasa.gov","noaa.gov","unep.org","climatechangenews.com","carbonbrief.org","theguardian.com","reuters.com","apnews.com","nationalgeographic.com","earth.org"]},
+    {"name":"Politics","query":"politics elections government policy","sources":["politico.com","thehill.com","axios.com","reuters.com","apnews.com","bbc.com","theguardian.com","npr.org","aljazeera.com","dw.com"]},
+    {"name":"Cybersecurity","query":"cybersecurity data breach online security","sources":["krebsonsecurity.com","darkreading.com","threatpost.com","bleepingcomputer.com","thehackernews.com","securityweek.com","therecord.media","cisa.gov","wired.com","arstechnica.com"]}
+  ]
+}
