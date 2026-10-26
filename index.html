@@ -1,0 +1,87 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="theme-color" content="#101827">
+  <meta name="description" content="Pulse News — a multi-category news reader powered by RSS feeds.">
+  <title>Pulse News — Global News Intelligence</title>
+  <link rel="stylesheet" href="style.css">
+  <link rel="icon" href="data:,">
+</head>
+<body>
+  <header class="topbar">
+    <a class="brand" href="./" aria-label="Pulse News home">
+      <span class="brand-icon">P</span>
+      <span>Pulse<span class="brand-accent">News</span></span>
+    </a>
+    <div class="header-actions">
+      <span class="live-label"><span class="live-dot"></span> RSS NEWS</span>
+      <button id="themeBtn" class="icon-btn" aria-label="Toggle theme">☾</button>
+    </div>
+  </header>
+
+  <main class="page">
+    <section class="hero">
+      <div class="eyebrow">YOUR WORLD. ONE FEED.</div>
+      <h1>News moves fast.<br><span>Stay ahead.</span></h1>
+      <p>Explore headlines from publishers around the world, organized in one place.</p>
+      <div class="searchbar">
+        <span aria-hidden="true">⌕</span>
+        <input id="searchInput" type="search"
+          placeholder="Search headlines, topics or publishers..."
+          autocomplete="off">
+        <button id="clearSearch" aria-label="Clear search">×</button>
+      </div>
+      <div class="hero-meta">
+        <span id="storyCount">Loading stories…</span>
+        <span id="updatedAt">Checking latest updates</span>
+      </div>
+    </section>
+
+    <section class="toolbar">
+      <div>
+        <h2>Explore coverage</h2>
+        <p>Choose a topic to personalize your feed.</p>
+      </div>
+      <div class="feed-actions">
+        <button id="latestBtn" class="small-btn active">Latest</button>
+        <button id="savedBtn" class="small-btn">★ Saved</button>
+        <button id="refreshBtn" class="small-btn">↻ Refresh</button>
+      </div>
+    </section>
+
+    <nav id="categoryNav" class="category-nav" aria-label="News categories">
+      <button class="category-chip active" data-category="all">✦ All News</button>
+    </nav>
+
+    <section class="content-head">
+      <div>
+        <span class="section-kicker">THE NEWSROOM</span>
+        <h2 id="feedTitle">Top Stories</h2>
+      </div>
+      <span id="resultCount" class="result-count"></span>
+    </section>
+
+    <div id="statusMessage" class="status-message" role="status">
+      Connecting to the news feed…
+    </div>
+    <section id="newsGrid" class="news-grid" aria-live="polite"></section>
+
+    <div class="load-more-wrap">
+      <button id="loadMoreBtn" class="load-more">Load more stories</button>
+    </div>
+
+    <footer>
+      <a class="footer-brand" href="./">PulseNews</a>
+      <p>Independent news discovery. Stories belong to their respective publishers.</p>
+      <p>Built by <strong>Sayeef Adnan</strong> · Powered by RSS</p>
+      <p class="footer-small">Headlines and links are provided for discovery. Visit the original publisher for full articles.</p>
+    </footer>
+  </main>
+
+  <button id="backTop" class="back-top" aria-label="Back to top">↑</button>
+  <script src="app.js" defer></script>
+</body>
+</html>
