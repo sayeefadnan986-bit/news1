@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-27T01:29:21.725616+00:00",
+  "updatedAt": "2026-10-27T06:53:22.072420+00:00",
   "categories": [
     "World News",
     "Bangladesh",
@@ -22,7 +22,7 @@
     "Politics",
     "Cybersecurity"
   ],
-  "total": 1301,
+  "total": 1299,
   "articles": [
     {
       "id": "360947a7aabc93bb1d6b",
@@ -11714,24 +11714,6 @@
       "publisher": "National Geographic",
       "category": "Environment & Climate",
       "published": "2026-10-13T07:00:00+00:00"
-    },
-    {
-      "id": "0cfbc045d91824a41533",
-      "title": "Bangladesh-UAE Ties - daily-sun.com",
-      "summary": "Bangladesh-UAE Ties daily-sun.com",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1ZSVdIQUVkYlgxMktkV096dnVWRXpXYzZDVExVWmxHdmo0U1d4UFNzUXA5VUEyeGhYcFZVMzdodVZLQnhiOU9GaDBKWm51eklBSVZ3OHlzZnN1b3hUXzF3?oc=5",
-      "publisher": "daily-sun.com",
-      "category": "Bangladesh",
-      "published": "2026-10-13T06:50:41+00:00"
-    },
-    {
-      "id": "c29e9d339caca4551584",
-      "title": "Bangladesh Policy Reform | Why does Bangladesh keep starting from scratch in policymaking? - The Daily Star",
-      "summary": "Bangladesh Policy Reform | Why does Bangladesh keep starting from scratch in policymaking? The Daily Star",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNFAya0RzOGZWSFJEYnNLS1JKYmhQOGEycUhwYnplQUNNLU42d2FkcXE5VnJWS1lKZTZPQWtYdFd1UzBDQlI1QUtXYUVlSzNnY0NfVDBWR2lITHA0UEV0bWRxRTRjUmJRNGxheDVncWRmNkxUMEZBWHRqNmxBZVpyZUdISlpqSFdPVUY0T282ZUN1U3ROclBsNklLdndWTWZYZlNCdGZOMHNsYTF1NXFv?oc=5",
-      "publisher": "The Daily Star",
-      "category": "Bangladesh",
-      "published": "2026-10-13T03:03:02+00:00"
     }
   ]
 }
