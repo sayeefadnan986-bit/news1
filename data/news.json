@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28T01:44:17.121716+00:00",
+  "updatedAt": "2026-10-28T07:32:23.299337+00:00",
   "categories": [
     "World News",
     "Bangladesh",
@@ -22,7 +22,7 @@
     "Politics",
     "Cybersecurity"
   ],
-  "total": 1532,
+  "total": 1524,
   "articles": [
     {
       "id": "2a0e491fb6914964d98e",
@@ -13739,78 +13739,6 @@
       "publisher": "Google DeepMind",
       "category": "Artificial Intelligence",
       "published": "2026-10-15T07:00:00+00:00"
-    },
-    {
-      "id": "486c53cc8c29d2f52189",
-      "title": "International Days - UNEP - UN Environment Programme",
-      "summary": "International Days UNEP - UN Environment Programme",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9FcVFCYUZXM0hHdHh2aFl3T0NscnE5bFpIbDlHcnZaeWtjVTVJSHhvWFBsQzhydG5COHM0RzMybHliS0NnTXJTYnQzbEd4ZG1MRGJXeQ?oc=5",
-      "publisher": "UNEP - UN Environment Programme",
-      "category": "Environment & Climate",
-      "published": "2026-10-14T07:11:58+00:00"
-    },
-    {
-      "id": "24886a9da0569845d158",
-      "title": "China’s extraordinary rise in science and how it will change the world - Nature",
-      "summary": "China’s extraordinary rise in science and how it will change the world Nature",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE80b1pZXy1HSWxwT0haN0p6OXZnTktHbGN3QURrV0ZyemU3bU5ZSml2SFpKNVhCMzlaRFJlTWp6a3RMNThCc1BERTBoVTBRc1gyRmtHNmR2OTdQdllGVHVZ?oc=5",
-      "publisher": "Nature",
-      "category": "Science",
-      "published": "2026-10-14T07:00:00+00:00"
-    },
-    {
-      "id": "e1353b4f6f10785da0a9",
-      "title": "Overlooked brown fat in our bodies linked to wide range of health benefits - Nature",
-      "summary": "Overlooked brown fat in our bodies linked to wide range of health benefits Nature",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5lYUxXdnd6c3FfSVk5NjBLdTlTb0dlZUVOUVE0T3Q2NlhidzFTV1J3Ry1wRzdlYjk2bWtrNG41MXFZY2tzTmlMR0V2cjZhM0s2bUd4QjNKc3NGdGgzQW1n?oc=5",
-      "publisher": "Nature",
-      "category": "Science",
-      "published": "2026-10-14T07:00:00+00:00"
-    },
-    {
-      "id": "233209ccfb38e230d12e",
-      "title": "As Lake Powell Dries Up, Mud Threatens Its Future - National Geographic",
-      "summary": "As Lake Powell Dries Up, Mud Threatens Its Future National Geographic",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNb2lMSEJLSTJVc2E0VEZPR2Qzb0kycWd3V2kwYVZyMjgxQlNnblFEOWJtQ1NMaXlsVkk0THNaWThPdzd6S1FUYl92bk9CVklxUUFwaDNwX2pzR19QUmNqbFdPREZnVzF4d3lSSm55S3p2YlhJYlhnNWJoM1NNcjZOUw?oc=5",
-      "publisher": "National Geographic",
-      "category": "Environment & Climate",
-      "published": "2026-10-14T07:00:00+00:00"
-    },
-    {
-      "id": "989ff96719af1ca93145",
-      "title": "From code to cure: Harnessing AI for antibiotic discovery and design - Science | AAAS",
-      "summary": "From code to cure: Harnessing AI for antibiotic discovery and design Science | AAAS",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1tYWxoYlo5WGw2TFRaM204b28wOFhaSENHNGNXVnVnMFRZak9ycmRpQ0dpSVN2cDVNWXZZbGdSQTZaZHl1ZUhxZTNTZzlDMGxOdXVVMmFhZG1NRGN5dWhsUmVvMU9Iamc?oc=5",
-      "publisher": "Science | AAAS",
-      "category": "Science",
-      "published": "2026-10-14T07:00:00+00:00"
-    },
-    {
-      "id": "daee6de4301d27907106",
-      "title": "Wildlife photographer of the year 2026 winners – in pictures - The Guardian",
-      "summary": "Wildlife photographer of the year 2026 winners – in pictures The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQa0FCaGNVdGZDN0NjdlZLbjZ1ZkdSZHJEMFh1WnB6VFh1X2ZEMVRZM3Jadk16cF9xenVTMUkwR0NLU0MxWVBJNE1RVlJJZ19jZ25idjVQU1dDQk1fVC1FS01xcXl4Nnc4OE5iSnlNUTJ4ZFNUaWtnTHEwOVpoNElpUVQ1VTVVVkFWMWpfX1A2VnFpckowNC1yMmhmdGdqbGIyUVRDbnZvU205aXhBWTRiYVhYZlJVeDRiYlE?oc=5",
-      "publisher": "The Guardian",
-      "category": "Environment & Climate",
-      "published": "2026-10-14T07:00:00+00:00"
-    },
-    {
-      "id": "4ec1856164995f129d0f",
-      "title": "News, stories & speeches - UNEP - UN Environment Programme",
-      "summary": "News, stories & speeches UNEP - UN Environment Programme",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5qMFpwOUd3eTdSSDFQdzlHX0NUb2taa3VmQzFKOThoQVI1SkhiTlkxbXNTNUY1SWhYOGJxc0p3c0hkakhuWEtxNHNDcDVEeFlNRHJMVE5xTkxodExONFEyYVJ3NkQ3dw?oc=5",
-      "publisher": "UNEP - UN Environment Programme",
-      "category": "Environment & Climate",
-      "published": "2026-10-14T06:47:12+00:00"
-    },
-    {
-      "id": "efa011627dca5f5feff3",
-      "title": "UNEP - UN Environment Programme - UNEP - UN Environment Programme",
-      "summary": "UNEP - UN Environment Programme UNEP - UN Environment Programme",
-      "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE9Va1VqalRlTEIyVkw1YnNDd1hyOWRzMUhiMWZSWk0zdHY4LVVFblNCcDM2TFR2emc1bE5V?oc=5",
-      "publisher": "UNEP - UN Environment Programme",
-      "category": "Environment & Climate",
-      "published": "2026-10-14T06:26:00+00:00"
     }
   ]
 }
